@@ -1,2 +1,2 @@
 # personal-finance
-Personal fiance recipes for investmenting
+Personal finance recipes for investing in NSE equity stocks
